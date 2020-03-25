@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/testreactwebsite/static/css/main.eb67235c.chunk.css",
-    "main.js": "/testreactwebsite/static/js/main.bb4d52bb.chunk.js",
-    "main.js.map": "/testreactwebsite/static/js/main.bb4d52bb.chunk.js.map",
+    "main.css": "/testreactwebsite/static/css/main.8894c2c7.chunk.css",
+    "main.js": "/testreactwebsite/static/js/main.f33ec8c9.chunk.js",
+    "main.js.map": "/testreactwebsite/static/js/main.f33ec8c9.chunk.js.map",
     "runtime-main.js": "/testreactwebsite/static/js/runtime-main.a1536ff2.js",
     "runtime-main.js.map": "/testreactwebsite/static/js/runtime-main.a1536ff2.js.map",
     "static/css/2.6bd962d6.chunk.css": "/testreactwebsite/static/css/2.6bd962d6.chunk.css",
-    "static/js/2.89514e6c.chunk.js": "/testreactwebsite/static/js/2.89514e6c.chunk.js",
-    "static/js/2.89514e6c.chunk.js.map": "/testreactwebsite/static/js/2.89514e6c.chunk.js.map",
+    "static/js/2.334e2342.chunk.js": "/testreactwebsite/static/js/2.334e2342.chunk.js",
+    "static/js/2.334e2342.chunk.js.map": "/testreactwebsite/static/js/2.334e2342.chunk.js.map",
     "index.html": "/testreactwebsite/index.html",
-    "precache-manifest.a10769b714edf1a95216dac2fdd184dc.js": "/testreactwebsite/precache-manifest.a10769b714edf1a95216dac2fdd184dc.js",
+    "precache-manifest.50de5cbe575773f4995247ba08653219.js": "/testreactwebsite/precache-manifest.50de5cbe575773f4995247ba08653219.js",
     "service-worker.js": "/testreactwebsite/service-worker.js",
     "static/css/2.6bd962d6.chunk.css.map": "/testreactwebsite/static/css/2.6bd962d6.chunk.css.map",
-    "static/css/main.eb67235c.chunk.css.map": "/testreactwebsite/static/css/main.eb67235c.chunk.css.map",
-    "static/js/2.89514e6c.chunk.js.LICENSE.txt": "/testreactwebsite/static/js/2.89514e6c.chunk.js.LICENSE.txt",
+    "static/css/main.8894c2c7.chunk.css.map": "/testreactwebsite/static/css/main.8894c2c7.chunk.css.map",
+    "static/js/2.334e2342.chunk.js.LICENSE.txt": "/testreactwebsite/static/js/2.334e2342.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/testreactwebsite/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/logo.svg": "/testreactwebsite/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a1536ff2.js",
     "static/css/2.6bd962d6.chunk.css",
-    "static/js/2.89514e6c.chunk.js",
-    "static/css/main.eb67235c.chunk.css",
-    "static/js/main.bb4d52bb.chunk.js"
+    "static/js/2.334e2342.chunk.js",
+    "static/css/main.8894c2c7.chunk.css",
+    "static/js/main.f33ec8c9.chunk.js"
   ]
 }
